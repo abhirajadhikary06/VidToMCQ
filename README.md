@@ -1,4 +1,4 @@
-# <span style="font-size: 2em;">VidTOMCQ</span>
+# <span style="font-size: 2em;" align = "center">VidTOMCQ</span>
 
 **VidTOMCQ** is an AI-powered project that allows users to upload video content and automatically generates 5 multiple-choice questions (MCQs) based on the content of the video. This project integrates speech recognition, video processing, and generative AI to create an innovative tool for learning and assessment.
 
