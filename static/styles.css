@@ -1,0 +1,75 @@
+/* General body and font styling */
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f5f5f5;
+}
+
+.container {
+    text-align: center;
+}
+
+header h1 {
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+/* Upload box styling */
+.upload-box {
+    width: 600px;
+    height: 300px;
+    background-color: #f9f9f9;
+    border: 2px dashed #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    cursor: pointer;
+}
+
+.upload-box:hover {
+    background-color: #f1f1f1;
+}
+
+.upload-icon {
+    font-size: 50px;
+    font-weight: 400;
+    color: #000;
+}
+
+.upload-text {
+    font-size: 18px;
+    font-weight: 300;
+    margin-top: 10px;
+}
+
+#video-upload {
+    opacity: 0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    cursor: pointer;
+}
+
+.submit-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.submit-btn:hover {
+    background-color: #333;
+}
