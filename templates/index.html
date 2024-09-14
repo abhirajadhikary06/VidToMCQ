@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VMCQ - Video to MCQ Generator</title>
+    
+    <!-- Poppins Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    
+    <!-- Link to the static CSS file -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>VMCQ.</h1>
+        </header>
+
+        <div class="upload-box">
+            <form action="/process" method="POST" enctype="multipart/form-data">
+                <label for="video-upload">
+                    <div class="upload-icon">+</div>
+                    <div class="upload-text">Upload Video to get MCQ</div>
+                </label>
+                <input type="file" id="video-upload" name="video" accept="video/*" required>
+                <button type="submit" class="submit-btn">Submit</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
