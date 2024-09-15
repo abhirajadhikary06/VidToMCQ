@@ -61,6 +61,29 @@ After uploading a video, the system generates questions such as:
 - [Abhiraj Adhikary](https://github.com/abhirajadhikary06)
 - [Shweta Kumari](https://github.com/ShwetaKumari-programming)
 
+## Visuals:
+<p align="center">
+  <img src="https://drive.google.com/file/d/1gcqnVnZAIi5kwOXjR5iV33pTD1UDhqjF/view?usp=sharing" alt="Upload file page" width="300">
+</p>
+
+<p align="center"><em>Upload file page</em></p>
+
+<br><br>  <!-- This creates two line breaks -->
+
+<p align="center">
+  <img src="https://drive.google.com/file/d/1otznqm8ElhwJ0EUTPcwyUPnV8XMuVHbv/view?usp=sharing" alt="Video file processing" width="300">
+</p>
+
+<p align="center"><em>Video file processing</em></p>
+
+<br><br>  <!-- This creates two line breaks -->
+
+<p align="center">
+  <img src="https://drive.google.com/file/d/1s0eMPCDPngpVo0wHcHYRQ-MWwBG-GGYq/view?usp=sharing" alt="Generated questions page" width="300">
+</p>
+
+<p align="center"><em>Generated questions page</em></p>
 ---
 
-Developed with ❤️ by the VidTOMCQ team.
+Developed with ❤️ by the <em>VidTOMCQ</em> team.
+
