@@ -63,7 +63,7 @@ After uploading a video, the system generates questions such as:
 
 ## Visuals:
 <p align="center">
-  <img src="https://drive.google.com/file/d/1gcqnVnZAIi5kwOXjR5iV33pTD1UDhqjF/view?usp=sharing" alt="Upload file page" width="300">
+  <img src="https://www.imghippo.com/i/3CAuQ1726379657.png" alt="Upload file page" width="300">
 </p>
 
 <p align="center"><em>Upload file page</em></p>
@@ -71,7 +71,7 @@ After uploading a video, the system generates questions such as:
 <br><br>  <!-- This creates two line breaks -->
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1otznqm8ElhwJ0EUTPcwyUPnV8XMuVHbv/view?usp=sharing" alt="Video file processing" width="300">
+  <img src="https://www.imghippo.com/i/Y6cNt1726379734.png" alt="Video file processing" width="300">
 </p>
 
 <p align="center"><em>Video file processing</em></p>
@@ -79,7 +79,7 @@ After uploading a video, the system generates questions such as:
 <br><br>  <!-- This creates two line breaks -->
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1s0eMPCDPngpVo0wHcHYRQ-MWwBG-GGYq/view?usp=sharing" alt="Generated questions page" width="300">
+  <img src="https://www.imghippo.com/i/6q4UX1726379761.png" alt="Generated questions page" width="300">
 </p>
 
 <p align="center"><em>Generated questions page</em></p>
