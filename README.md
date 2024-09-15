@@ -88,5 +88,5 @@ After uploading a video, the system generates questions such as:
 <p align="center"><em>Generated questions page</em></p>
 ---
 
-Developed with ❤️ by the <em>VidTOMCQ</em> team.
+Developed with ❤️ by the <em><b>VidTOMCQ</b></em> team.
 
